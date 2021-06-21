@@ -1,2 +1,2 @@
-# Hackerrank-SQL-Questions
+# Hackerrank-SQL-Questions AND solutions!
 Question of SQL from Hackerrank !
